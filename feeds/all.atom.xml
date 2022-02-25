@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Code Monkey Jim</title><link href="https://codemonkeyjim.github.io/" rel="alternate"></link><link href="https://codemonkeyjim.github.io/feeds/all.atom.xml" rel="self"></link><id>https://codemonkeyjim.github.io/</id><updated>2022-02-25T14:00:00-07:00</updated><entry><title>Introduction</title><link href="https://codemonkeyjim.github.io/introduction.html" rel="alternate"></link><published>2022-02-25T14:00:00-07:00</published><updated>2022-02-25T14:00:00-07:00</updated><author><name>Jim Pfleger</name></author><id>tag:codemonkeyjim.github.io,2022-02-25:/introduction.html</id><content type="html">&lt;p&gt;Welcome to my experiment in learning in public. A tip of the cap to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://hanselminutes.com/"&gt;Scott Hanselman&lt;/a&gt; for the motivation to start this&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://training.talkpython.fm/"&gt;Talk Python Training&lt;/a&gt; for the Pelican starter to get this going&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.jonathancoulton.com/"&gt;Jonathan Coulton&lt;/a&gt; for inspiring me to be both functional &lt;em&gt;and&lt;/em&gt; elegant&lt;/li&gt;
+&lt;/ul&gt;</content><category term="misc"></category></entry></feed>
